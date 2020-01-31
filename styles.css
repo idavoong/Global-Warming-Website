@@ -1,0 +1,55 @@
+.title {
+    display: flex;
+    justify-content: center;
+    font-family: 'Sigmar One', cursive;
+    color: #ED553B; 
+    font-size: 25px;
+}
+
+.columns {
+    display: flex;
+}
+
+.picture .text {
+    flex: 50%;
+}
+
+img {
+    height: 300px;
+    margin: 10px;
+    border:2px dashed black;
+}
+.car-head { 
+    font-size: 40px;
+    font-family: 'Source Code Pro', monospace;
+    color:#3CAEA3;
+}
+.bike-head { 
+    font-size: 40px;
+    font-family: 'Source Code Pro', monospace;
+    color:#173F5F;
+}
+.meat-head {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    color:#3CAEA3;
+}
+.veggie-head { 
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    color:#173F5F;
+}
+.click2 {
+    border: 5px solid blue;
+}
+.click1 {
+    border: 5px solid blue;
+}
+p {
+    font-family: 'EB Garamond', serif;
+    font-size:20px;
+    color:#173F5F;
+}
+body {
+    background-color:#F6D55C;
+}
